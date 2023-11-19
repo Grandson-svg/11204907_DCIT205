@@ -1,0 +1,73 @@
+<section class="slider_section">
+        <div id="main_slider" class="carousel slide banner-main" data-ride="carousel">
+
+           <div class="carousel-inner">
+              <div class="carousel-item">
+                 <img class="first-slide" src="IMAGES/A1.jpg" alt="First slide">
+                 <div class="container">
+                    <div class="carousel-caption relative">
+                      
+                    </div>
+                 </div>
+              </div>
+              <div class="carousel-item">
+                 <img class="second-slide" src="IMAGES/A2.jpg" alt="Second slide">
+                 <div class="container">
+                    <div class="carousel-caption relative">
+                      
+                    </div>
+                 </div>
+              </div>
+              <div class="carousel-item">
+                 <img class="third-slide" src="IMAGES/A1.jpg" alt="Third slide">
+                 <div class="container">
+                    <div class="carousel-caption relative">
+                      
+                    </div>
+                 </div>
+              </div>
+              <div class="carousel-item">
+               <img class="third-slide" src="IMAGES/A3.jpg" alt="Third slide">
+               <div class="container">
+                  <div class="carousel-caption relative">
+                    
+                  </div>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <img class="third-slide" src="IMAGES/A1.jpg" alt="Third slide">
+               <div class="container">
+                  <div class="carousel-caption relative">
+                    
+                  </div>
+               </div>
+            </div>
+
+           </div>
+           <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+           <i class='fa fa-angle-right'></i>
+           </a>
+           <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+           <i class='fa fa-angle-left'></i>
+           </a>
+           
+        </div>
+
+
+
+
+
+.first-slide{
+    width: 100%;
+    height: 670px;
+}
+
+.second-slide{
+    width: 100%;
+    height: 670px;
+}
+
+.third-slide{
+    width: 100%;
+    height: 670px;
+}
