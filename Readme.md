@@ -1,23 +1,23 @@
 <p>
-    INTRODUCTION
+    <b align =" centre">INTRODUCTION <b>
 </p>
 
-<h1 align="center">Hi 👋, I'm Certainly! Below is a template for a comprehensive README document for a fictional computer science website. You can customize it according to the actual details of your website. [Your Computer Science Website Name] Introduction Welcome to [Your Computer Science Website Name], your go-to destination for all things computer science and technology. Whether you're a seasoned developer, a curious student, or an enthusiast eager to explore the ever-evolving world of tech, you've landed in the right place</h1>
+<h4 align="center">Hi 👋, I'm Certainly! Below is a template for a comprehensive README document for a fictional computer science website. You can customize it according to the actual details of your website.    Introduction Welcome you to  Computer Science Website department, your go-to destination for all things computer science and technology. Whether you're a seasoned developer, a curious student, or an enthusiast eager to explore the ever-evolving world of tech, you've landed in the right place</h1>
 
 ![computer](project.png)
 ![com](hard.png)
 
 <P>
-  LESSONS
+ <b align="centre"> LESSONS </b>
 </P>
-<h3 align="center">Purpose At [Your Computer Science Website Name], our primary purpose is to: Educate: Provide comprehensive tutorials, lessons, and learning materials covering a wide range of computer science topics, from fundamental concepts to advanced technologies. Connect: Foster a vibrant coding community where developers, programmers, and tech enthusiasts can collaborate, share knowledge, and engage in discussions to enhance their skills. Inform: Keep you updated with the latest tech news, trends, and industry insights, ensuring you stay at the forefront of the dynamic field of computer science. Inspire: Showcase innovative projects, share success stories, and offer career guidance to inspire and support individuals on their journey in the tech industry.</h3>
+<h3 align="center">Purpose At  Computer Science Website, our primary purpose is to: Educate: Provide comprehensive tutorials, lessons, and learning materials covering a wide range of computer science topics, from fundamental concepts to advanced technologies. Connect: Foster a vibrant coding community where developers, programmers, and tech enthusiasts can collaborate, share knowledge, and engage in discussions to enhance their skills. Inform: Keep you updated with the latest tech news, trends, and industry insights, ensuring you stay at the forefront of the dynamic field of computer science. Inspire: Showcase innovative projects, share success stories, and offer career guidance to inspire and support individuals on their journey in the tech industry.</h3>
 
 - 🔭 I’m currently working on **School website**
 
 - 🌱 I’m currently learning **Information Technology**
 
 <P>
-    STEPS IN CLONING AND PROJECT
+   <b align="centre"> STEPS IN CLONING AND PROJECT </b>
 </P>
 
 
