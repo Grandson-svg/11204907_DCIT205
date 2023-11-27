@@ -32,6 +32,6 @@
 
 - 📫 How to reach me **dutchgbg@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 055023705</h3>
 <p align="left">
 </p>
